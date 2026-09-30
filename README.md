@@ -1,5 +1,6 @@
 # Personal-Knowledge-Graph
-Project
 Abhay Gowda
+Tavishi Patwari
 Mahip Jain
-Tavishi
+Wuyue Li
+June Ahn
