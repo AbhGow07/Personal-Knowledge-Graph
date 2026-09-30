@@ -1,5 +1,5 @@
 # Personal-Knowledge-Graph
-SIGAIDA Project
+Project
 Abhay Gowda
 Mahip Jain
 Tavishi
